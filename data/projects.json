@@ -1,25 +1,37 @@
 [
   {
     "title": "Student learning Portal",
-    "description": "E-Learning platform for schools to enable students to check, assignments, results and teacher comments.",
+    "description": "Online education platform for students. E-Learning platform for schools to enable students to check, assignments, results and teacher comments.",
+    "technologies": ["React", "Firebase", "Tailwind CSS"],
+    "category": "web",
+    "link": "#",
     "github": "https://github.com/Shara-Alex/Student-portal-learning-platform",
     "image": "assets/images/student_learning_platform_image.jpg"
   },
   {
     "title": "Task Bunny",
-    "description": "Task Rabbit inspired website to assign tasks and for people seeking tasks.",
+    "description": "Service marketplace for local tasks. Task Rabbit inspired website to assign tasks and for people seeking tasks.",
+    "technologies": ["React Native", "Node.js", "MongoDB"],
+    "category": "mobile",
+    "link": "#",
     "github": "https://github.com/Shara-Alex/Task_Bunny_Site",
     "image": "assets/images/task_bunny_site_image.jpg"
   },
   {
     "title": "Online Local Market Place",
-    "description": "Simple online marketplace for people to buy and sell items.",
+    "description": "An e-commerce platform for local artisans",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "category": "web",
+    "link": "#",
     "github": "https://github.com/Shara-Alex/Marketplace_platform",
     "image": "assets/images/marketplace_image.jpeg"
   },
   {
     "title": "Money Lending Application",
-    "description": "Money lending app to connect people.",
+    "description": "Peer-to-peer money lending platform. Money lending app to connect people.",
+    "technologies": ["Vue.js", "Express", "PostgreSQL"],
+    "category": "web",
+    "link": "#",
     "github": "https://github.com/Shara-Alex/money-lending-site",
     "image": "assets/images/money_lending_image.jpg"
   }

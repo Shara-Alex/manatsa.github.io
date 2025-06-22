@@ -1,10 +1,12 @@
 [
   {
-    "name": "CompTIA A+ Certification",
-    "file": "assets/certificates/CompTIA A+ certification.pdf"
+    "name": "Comptia A+",
+    "issuer": "CompTIA",
+    "fileName": "/assets/certificates/ComptiA A+ certificate.pdf"
   },
   {
-    "name": "Bsc Honors Degree Certificate",
-    "file": "assets/certificates/nust certificate.pdf"
+    "name": "Informatics Degree",
+    "issuer": "NUST",
+    "fileName": "/assets/certificates/NUST Informatics degree Certificate.pdf"
   }
 ]
